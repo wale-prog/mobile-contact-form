@@ -335,6 +335,7 @@ li {
 .skills {
   list-style: inside url("../media/svg/circle.svg");
 }
+
 #footer {
   display: flex;
   flex-direction: column;
@@ -437,4 +438,3 @@ textarea {
   margin-right: auto;
   border-radius: 10px;
 }
-
